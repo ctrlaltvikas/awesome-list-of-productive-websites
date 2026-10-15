@@ -56,6 +56,7 @@ A curated list :book: of awesome places on the internet for learning and to boos
 <li><a href="http://www.unplugthetv.com/">Unplug the TV</a></li>
 <li><a href="http://www.youtube.com/user/Vsacue/videos">VSauce</a></li>
 
+<li><a href="https://logomovo.com/blog">LogoMovo Guides</a> — Practical logo typography, SVG/PNG file and export-check tutorials; articles are public, while the separate Studio requires an account and paid plan.</li>
 </ul>
 
 
