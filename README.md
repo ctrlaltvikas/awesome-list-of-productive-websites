@@ -56,6 +56,10 @@ A curated list :book: of awesome places on the internet for learning and to boos
 <li><a href="http://www.unplugthetv.com/">Unplug the TV</a></li>
 <li><a href="http://www.youtube.com/user/Vsacue/videos">VSauce</a></li>
 
+<li><a href="https://nailmoodlab.com/bloglist.html">NailMoodLab Journal</a> — Nail-shape comparison and design-prompt planning guides; public reading, while AI generation needs sign-in and available allowance.</li>
+<li><a href="https://packscena.com/guides/product-background">PackScena Product-photo Guides</a> — Source-photo preparation and generated-background review checklists; public reading, while image creation needs an invitation and workspace allowance.</li>
+<li><a href="https://lookscene.packscena.com/blog">LookScene Photo Guides</a> — Portrait lighting, framing and image-review guides; public reading, while generation needs sign-in, consent and credits.</li>
+<li><a href="https://a2oliteneon.xyz/guides/photo-guide">NEON DUO Two-photo Checklist</a> — Public guide to separate adult portrait inputs, face visibility, body framing, file limits and role/permission checks for a two-person dance-video concept; real AI generation and purchases are not open. Operator-affiliated, AI-assisted suggestion.</li>
 </ul>
 
 
