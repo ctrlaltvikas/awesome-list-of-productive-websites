@@ -46,6 +46,7 @@ A curated list :book: of awesome places on the internet for learning and to boos
 <li><a href="http://www.poemhunter.com/poets">Poemhunter</a></li>
 <li><a href="http://www.todayifoundout.com/">Today I Found Out</a></li>
 <li><a href="http://www.digital-photography-school.com/">Digital Photograhy School</a></li>
+<li><a href="https://pixelarthive.com/">PixelArtHive</a> - Free browser-local image-to-pixel-art conversion and pixel art upscaling.</li>
 <li><a href="http://www.factsie.com/">Factsie</a></li>
 <li><a href="http://fastcompany.com/">Fast Company's 30-Second MBA</a></li>
 <li><a href="http://www.gibbon.co/">Gibbon</a></li>
